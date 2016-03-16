@@ -11,7 +11,7 @@ public class TesteAluno {
 
 		
 		Aluno aluno1 = new Aluno();
-		validaAluno(aluno1);
+		validaAluno(aluno);
 	}
 
 	private static void validaAluno(Aluno aluno) {
